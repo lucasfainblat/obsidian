@@ -135,6 +135,7 @@ Este arquivo contém nomes e informações sobre músicos que podem ser utilizad
 > Músico desde 1991 pelas bandas de música da região metropolitana de Belo Horizonte - MG, tem o trombone como seu parceiro inseparável. É formado pelo CEFAR – Palácio das Artes (2003) e Bacharel pela EMUFMG (2007). Vencedor de prêmios como BDMG instrumental por duas vezes, Troféu Pró-Música e Prêmio Jovem Solista da EMUFMG. Músico Celetista na Orquestra Sinfônica de Minas Gerais, convidado em locais como Orquestra Filarmônica de minas Gerais, Orquestra Opus e em demais Projetos eruditos e populares. Professor de trombone na Cidade de Santa Bárbara – MG, foi professor no Cefart – Palácio das Artes em 2020. Também atua como regente, arranjador, produtor, coordenador e atuante no mercado nacional e Internacional por mais de 20 anos. Em 2016 lançou seu primeiro álbum, Terra Brasilinis, trazendo uma pequena leitura de sua história musical.
 
 [Clipping leonardo brasilino1.pdf](https://github.com/user-attachments/files/20711818/clip.leonardo.brasilino.pdf)
+
 [Clippping_leonardo_brasilino2.pdf](https://github.com/user-attachments/files/20711821/clippping_leonardobrasilino.pdf)
 
 
