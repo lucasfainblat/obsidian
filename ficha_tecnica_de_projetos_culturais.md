@@ -1,5 +1,6 @@
 # Ficha técnica de projetos culturais
 Este arquivo contém nomes e informações sobre músicos que podem ser utilizados na construção de projetos culturais do artista Lucas Fainblat.
+
 🚧 **ATENÇÃO**: salvo sob manifestação prévia expressa de Lucas Fainblat, você não está autorizado a utilizar as informações aqui constantes. Não cometa crime!
 
 ## Banda base: resumo
