@@ -1,4 +1,8 @@
-# Banda base: resumo
+# Ficha técnica de projetos culturais
+Este arquivo contém nomes e informações sobre músicos que podem ser utilizados na construção de projetos culturais do artista Lucas Fainblat.
+🚧 **ATENÇÃO**: salvo sob manifestação prévia expressa de Lucas Fainblat, você não está autorizado a utilizar as informações aqui constantes. Não cometa crime!
+
+## Banda base: resumo
 
 |     | Nome Completo                         | Nome Artístico  | Instrumento                   | Seção        | CPF            |
 | --- | ------------------------------------- | --------------- | ----------------------------- | ------------ | -------------- |
@@ -13,6 +17,7 @@
 | 9   | João Paulo de Jesus Lopes Alves       | Buchecha        | Trombone                      | 🎺 Sopro     | 100.552.536-60 |
 | 10  | Sérgio Danilo Ramos                   | Sérgio Danilo   | Saxofone / Flauta / Clarinete | 🎺 Sopro     | 013.758.916-69 |
 | 11  | Christiano Cosso Caldas               | Chris Caldas    | Teclado                       | 🎹 Outros    | 034.503.186-59 |
+
 ## 🎙️Voz
 ### Lucas Fainblat (voz)
 🙋🏻 Lucas Melo Franco Fainblat
@@ -73,8 +78,8 @@
 > 
 > Cyrano ganhou o prêmio jovem instrumentista BDMG 2019, e estudou com grandes nomes da música popular como Esdra “neném” Ferreira, Ian Guest entre outros. Gravou o Álbum My Prophet com Oded Tzur 4tet com o produtor Manfred Eicher pela ECM Records em 2023. Atualmente Cyrano encontra-se em fase de pré-produção do seu primeiro disco e tour pela Europa com Oded Tzur. 
 
+[Currículo Cyrano.pdf](https://github.com/user-attachments/files/20711792/Curriculo.Cyrano.pdf)
 
-![[Currículo Cyrano.pdf]]
 ### Diguinho (percussão)
 🙋🏻 Rodrigo Sérgio Martins
 🪪 CPF 01192265610
@@ -85,8 +90,8 @@
 > Sua formação musical teve início na Ordem dos Músicos, e desde então, sua trajetória inclui 14 anos como integrante do grupo “Os Neguinhos” e participações com artistas como Alcione, Arlindo Cruz, Beth Carvalho, Moacyr Luz, Monarco e Dudu Nobre. Além disso, integra os grupos Zé da Guiomar e Nossa Roda, reafirmando seu compromisso com a tradição e a renovação do samba.
 > 
 > Com uma impressionante lista de colaborações que abrange desde a Velha Guarda da Portela até nomes contemporâneos como Roberta Sá e Thiago Delegado, Diguinho constrói uma ponte entre gerações, estilos e territórios musicais. Sua presença marcante em gravações, festivais e rodas de samba o consolida como uma referência incontornável da percussão brasileira.
-  
-  ![[RODRIGO MARTINS - PORTFÓLIO.pdf]]
+
+[RODRIGO MARTINS - PORTFÓLIO.pdf](https://github.com/user-attachments/files/20711809/RODRIGO.MARTINS.-.PORTFOLIO_compressed.pdf)
 
 ### Marcos Melo (percussão)
 🙋🏻 Marcos Francisco Barbosa de Melo 
@@ -128,9 +133,9 @@
 > [!info] Bio
 > Músico desde 1991 pelas bandas de música da região metropolitana de Belo Horizonte - MG, tem o trombone como seu parceiro inseparável. É formado pelo CEFAR – Palácio das Artes (2003) e Bacharel pela EMUFMG (2007). Vencedor de prêmios como BDMG instrumental por duas vezes, Troféu Pró-Música e Prêmio Jovem Solista da EMUFMG. Músico Celetista na Orquestra Sinfônica de Minas Gerais, convidado em locais como Orquestra Filarmônica de minas Gerais, Orquestra Opus e em demais Projetos eruditos e populares. Professor de trombone na Cidade de Santa Bárbara – MG, foi professor no Cefart – Palácio das Artes em 2020. Também atua como regente, arranjador, produtor, coordenador e atuante no mercado nacional e Internacional por mais de 20 anos. Em 2016 lançou seu primeiro álbum, Terra Brasilinis, trazendo uma pequena leitura de sua história musical.
 
-![[clip leonardo brasilino.pdf]]
+[Clipping leonardo brasilino1.pdf](https://github.com/user-attachments/files/20711818/clip.leonardo.brasilino.pdf)
+[Clippping_leonardo_brasilino2.pdf](https://github.com/user-attachments/files/20711821/clippping_leonardobrasilino.pdf)
 
-![[clippping_leonardobrasilino.pdf]]
 
 ### Sérgio Danilo (saxofone/flauta/clarinete)
 🙋🏻 Sérgio Danilo Ramos
@@ -150,4 +155,5 @@
 > 
 > Como pianista e tecladista, acompanha músicos de grande relevância, tais como Milton Nascimento, Flávio Venturini, 14 Bis, Jane Duboc, Bebel Gilberto, Hamilton de Holanda, Sá & Guarabyra, Roberto Menescal (RJ), Chico Amaral, Yamandu Costa, Wagner Tiso, Pepeu Gomes, João Donato, Affonsinho, Marina Machado, Leo Gandelman, Célio Balona, Beto Guedes, Juarez Moreira, Celso Fonseca, Carlos Malta (RJ), Nivaldo Ornelas, Marku Ribas, Toninho Horta, Vander Lee, Thiago Delegado, entre outros. Como engenheiro de som, fez trabalhos com Trio Corrente, Wilson Lopes, Stella Caymmi, Milton Nascimento, Darcy James (NY), Mike Stern, Aline Calixto e Emicida, Chris Washburne (NY), entre outros. Trabalhou como arranjador para Flávio Venturini, 14 Bis, Orquestra Ouro Preto, Célio Balona, entre outros.
 
-![[Clipping Chris Caldas.pdf]]
+[Clipping Chris Caldas.pdf](https://github.com/user-attachments/files/20711823/Clipping.Chris.Caldas.pdf)
+
